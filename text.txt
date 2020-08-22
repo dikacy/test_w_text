@@ -5,3 +5,8 @@ adding the second line for branch_1
 add master last line with yahoo email
 additional update
 update from github
+
+1
+2
+3
+the text from new_branch
